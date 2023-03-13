@@ -1,4 +1,4 @@
-This is a simple [Next.js](https://nextjs.org/) webproject bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple [Next.js](https://nextjs.org/) webproject bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [`TailwindCSS`](https://tailwindcss.com/).
 
 ## Getting Started
 
